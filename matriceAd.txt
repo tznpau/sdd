@@ -1,0 +1,13 @@
+5
+1 Paris
+2 Bucuresti
+3 Roma
+4 Berlin
+5 Madrid
+6
+1 2 120
+1 3 80
+2 3 230
+2 4 150
+3 4 300
+4 5 340
