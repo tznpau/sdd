@@ -1,0 +1,3 @@
+- Autobuze 
+  1. LDI: inserare sortata, afisare, dezalocare, stergere
+  2. ABC: copiere din lista dupa criteriu, parcurgere, dezalocare, numar noduri cu fii st-dr
