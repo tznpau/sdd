@@ -1,0 +1,11 @@
+10
+5 Mercedes 132.3 5 0
+9 Mercedes 152.3 15 0
+7 Renault 342.3 25 2
+4 Ottocar 432.3 26 3
+1 Ford 532.3 35 0
+6 Mercedes 632.3 45 1
+3 Mercedes 1122.3 55 2
+10 Mercedes 602.3 41 0
+2 Ottocar 512.3 16 0
+8 Ottocar 432.3 24 4
