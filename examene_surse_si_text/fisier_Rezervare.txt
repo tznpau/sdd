@@ -1,6 +1,0 @@
-5
-5 HotelX 2 Gigel 700
-3  HotelY 1 Maria 200
-7 HotelX 1 Ion 300
-1 HotelZ 3 Maria 500
-10 HotelY 2 Robert 360

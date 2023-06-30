@@ -1,6 +1,0 @@
-5
-Maricica Informatica 9.3 1
-George Informatica 9.2 2
-Gigel Statistica 8.5 3
-Andreea Informatica 9.8 4
-Ion Statistica 9.1 5
