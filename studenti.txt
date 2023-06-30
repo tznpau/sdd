@@ -1,6 +1,0 @@
-5
-1 Maria 9.2
-2 Laura 7.8
-3 Andreea 8.1
-4 Petruta 6.4
-5 Narcisa 5.5
