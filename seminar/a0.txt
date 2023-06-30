@@ -1,0 +1,16 @@
+LISTE
+- LSI
+- LDI
+- STIVA
+- COADA
+- LISTA DE LISTE
+- VECTORI DE LISTE (HASHTABLE) - chaining, linear & quadratic probing
+
+ARBORI
+- HEAP (= coada de prioritati)
+- ABC
+- AVL
+
+GRAFURI
+- matrice de adiacenta
+- liste de adiacenta
