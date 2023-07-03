@@ -5,3 +5,8 @@
 - Platforme
   1. MIN-HEAP: inserarea tuturor articolelor prin functie, schimbarea pretului minim si filtrarea, dezalocare
   2. ABC: copierea primelor n elemente din heap in ABC, dezalocare, afisarea platformelor din nodurile cu doar 1 fiu
+
+- Librarii
+  1. ABC: inserare, dezalocare, stergere noduri
+  2. Coada: salvare noduri sterse in coada
+  3. Vector: salvat noduri frunza sortat descrescator in functie de un camp char*
