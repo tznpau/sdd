@@ -1,0 +1,10 @@
+1 Platforma1 Sabin 5 153.42
+2 Platforma2 Vlad 5 426.32
+3 Platforma3 Marius 5 223.42
+4 Platforma4 Gigel 2 723.12
+5 Platforma5 Ionel 4 123.22
+6 Platforma6 Popel 1 623.42
+7 Platforma7 Cristi 4 173.42
+8 Platforma8 Nenea 2 323.42
+9 Platforma9 Mitica 10 623.42
+10 Platforma10 Sabin 8 173.02
