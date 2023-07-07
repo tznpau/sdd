@@ -1,0 +1,6 @@
+5
+31 Proiect1 Andrei 12 900.4 
+92 P2 Maria 14 2300.6
+61 P3 Ana 2 340
+35 P4 Ana 5 670
+59 P5 Alex 7 1200
